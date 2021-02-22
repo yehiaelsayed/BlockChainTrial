@@ -1,8 +1,0 @@
-C:\Users\Yehia Elsayed\source\repos\BlockChainSample\Utils\bin\Debug\netcoreapp3.1\Utils.deps.json
-C:\Users\Yehia Elsayed\source\repos\BlockChainSample\Utils\bin\Debug\netcoreapp3.1\Utils.dll
-C:\Users\Yehia Elsayed\source\repos\BlockChainSample\Utils\bin\Debug\netcoreapp3.1\Utils.pdb
-C:\Users\Yehia Elsayed\source\repos\BlockChainSample\Utils\obj\Debug\netcoreapp3.1\Utils.AssemblyInfoInputs.cache
-C:\Users\Yehia Elsayed\source\repos\BlockChainSample\Utils\obj\Debug\netcoreapp3.1\Utils.AssemblyInfo.cs
-C:\Users\Yehia Elsayed\source\repos\BlockChainSample\Utils\obj\Debug\netcoreapp3.1\Utils.dll
-C:\Users\Yehia Elsayed\source\repos\BlockChainSample\Utils\obj\Debug\netcoreapp3.1\Utils.pdb
-C:\Users\Yehia Elsayed\source\repos\BlockChainSample\Utils\obj\Debug\netcoreapp3.1\Utils.csproj.CoreCompileInputs.cache
