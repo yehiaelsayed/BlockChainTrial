@@ -1,0 +1,12 @@
+C:\Users\Yehia Elsayed\source\repos\BlockChainSample\BlockChainHandler\bin\Debug\netcoreapp3.1\BlockChainHandler.deps.json
+C:\Users\Yehia Elsayed\source\repos\BlockChainSample\BlockChainHandler\bin\Debug\netcoreapp3.1\BlockChainHandler.dll
+C:\Users\Yehia Elsayed\source\repos\BlockChainSample\BlockChainHandler\obj\Debug\netcoreapp3.1\BlockChainHandler.csprojAssemblyReference.cache
+C:\Users\Yehia Elsayed\source\repos\BlockChainSample\BlockChainHandler\obj\Debug\netcoreapp3.1\BlockChainHandler.AssemblyInfoInputs.cache
+C:\Users\Yehia Elsayed\source\repos\BlockChainSample\BlockChainHandler\obj\Debug\netcoreapp3.1\BlockChainHandler.AssemblyInfo.cs
+C:\Users\Yehia Elsayed\source\repos\BlockChainSample\BlockChainHandler\bin\Debug\netcoreapp3.1\BlockChainHandler.pdb
+C:\Users\Yehia Elsayed\source\repos\BlockChainSample\BlockChainHandler\bin\Debug\netcoreapp3.1\Utils.dll
+C:\Users\Yehia Elsayed\source\repos\BlockChainSample\BlockChainHandler\bin\Debug\netcoreapp3.1\Utils.pdb
+C:\Users\Yehia Elsayed\source\repos\BlockChainSample\BlockChainHandler\obj\Debug\netcoreapp3.1\BlockChainHandler.csproj.CoreCompileInputs.cache
+C:\Users\Yehia Elsayed\source\repos\BlockChainSample\BlockChainHandler\obj\Debug\netcoreapp3.1\BlockChainHandler.csproj.CopyComplete
+C:\Users\Yehia Elsayed\source\repos\BlockChainSample\BlockChainHandler\obj\Debug\netcoreapp3.1\BlockChainHandler.dll
+C:\Users\Yehia Elsayed\source\repos\BlockChainSample\BlockChainHandler\obj\Debug\netcoreapp3.1\BlockChainHandler.pdb

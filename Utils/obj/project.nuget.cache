@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "VrITniycSYHk6f54OmfGsHkmzr38jUaF5qwXE5mjNZhaFUtI3fgFmfSfEbATH6dZsAlx7SxxSZmSiOYOMxfUTQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Yehia Elsayed\\source\\repos\\BlockChainSample\\Utils\\Utils.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Yehia Elsayed\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\5.0.0\\microsoft.extensions.dependencyinjection.5.0.0.nupkg.sha512",
+    "C:\\Users\\Yehia Elsayed\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\Yehia Elsayed\\.nuget\\packages\\microsoft.extensions.logging\\5.0.0\\microsoft.extensions.logging.5.0.0.nupkg.sha512",
+    "C:\\Users\\Yehia Elsayed\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\5.0.0\\microsoft.extensions.logging.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\Yehia Elsayed\\.nuget\\packages\\microsoft.extensions.options\\5.0.0\\microsoft.extensions.options.5.0.0.nupkg.sha512",
+    "C:\\Users\\Yehia Elsayed\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512",
+    "C:\\Users\\Yehia Elsayed\\.nuget\\packages\\system.diagnostics.diagnosticsource\\5.0.0\\system.diagnostics.diagnosticsource.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
