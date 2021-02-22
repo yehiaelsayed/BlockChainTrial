@@ -2413,9 +2413,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Yehia Elsayed\\source\\repos\\BlockChainSample\\BlockChainSample\\BlockChainSample.csproj",
-      "projectName": "BlockChainSample",
-      "projectPath": "C:\\Users\\Yehia Elsayed\\source\\repos\\BlockChainSample\\BlockChainSample\\BlockChainSample.csproj",
+      "projectUniqueName": "C:\\Users\\Yehia Elsayed\\source\\repos\\BlockChainSample\\BlockChainSample\\BlockChainAPI.csproj",
+      "projectName": "BlockChainAPI",
+      "projectPath": "C:\\Users\\Yehia Elsayed\\source\\repos\\BlockChainSample\\BlockChainSample\\BlockChainAPI.csproj",
       "packagesPath": "C:\\Users\\Yehia Elsayed\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Yehia Elsayed\\source\\repos\\BlockChainSample\\BlockChainSample\\obj\\",
       "projectStyle": "PackageReference",

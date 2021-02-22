@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30611.23
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlockChainSample", "BlockChainSample\BlockChainSample.csproj", "{EF5E2D4F-A5BD-4DA4-BE69-FB07616A374B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlockChainAPI", "BlockChainSample\BlockChainAPI.csproj", "{EF5E2D4F-A5BD-4DA4-BE69-FB07616A374B}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlockChainHandler", "BlockChainHandler\BlockChainHandler.csproj", "{E2E2728C-EFF7-4373-88D5-102BEBF09959}"
 EndProject

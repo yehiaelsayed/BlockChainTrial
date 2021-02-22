@@ -8,7 +8,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using PeerToPeerSimulator.Network;
 
-namespace BlockChainSample.Controllers
+namespace BlockChainAPI.Controllers
 {
     [ApiController]
     [Route("[controller]")]

@@ -1,0 +1,84 @@
+{
+	"info": {
+		"_postman_id": "c0670484-5d19-4dd1-b66e-69a37e76a3ce",
+		"name": "BlockChain",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "AddPeer",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"computingPower\":5\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://localhost:5001/addPeer",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "5001",
+					"path": [
+						"addPeer"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "AddTransactions",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"SenderAddress\":\"\"\r\n    \"Transactions\": [\r\n        {\r\n            \"ToAddress\": \"\",\r\n            \"Amount\": 100\r\n        }\r\n    ]\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://localhost:5001/BlockChain/AddTransactions",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "5001",
+					"path": [
+						"BlockChain",
+						"AddTransactions"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "GetChain",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": null
+			},
+			"response": []
+		},
+		{
+			"name": "GetPeers",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": null
+			},
+			"response": []
+		}
+	]
+}
